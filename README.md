@@ -21,24 +21,16 @@ Gosto de entender como as coisas funcionam por trás de uma aplicação e transf
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,git,github,vscode" />
 </div>
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
 ## Projetos em destaque
 
 <div align="center">
 
   <a href="https://github.com/viniferreiradevtech/Task-Flow-ToDo-List">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_TODO&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniferreiradevtech&repo=Task-Flow-ToDo-List&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/viniferreiradevtech/daze-login">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_TERMO&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniferreiradevtech&repo=daze-login&theme=tokyonight&hide_border=true" />
   </a>
 
 </div>
