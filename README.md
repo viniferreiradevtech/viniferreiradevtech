@@ -23,17 +23,17 @@ Gosto de entender como as coisas funcionam por trás de uma aplicação e transf
 
 ## Projetos em destaque
 
-<div align="center">
+## Projetos em destaque
 
-  <a href="https://github.com/viniferreiradevtech/Task-Flow-ToDo-List">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniferreiradevtech&repo=Task-Flow-ToDo-List&theme=tokyonight&hide_border=true" />
-  </a>
+### Task Flow — To Do List
+Aplicação de gerenciamento de tarefas desenvolvida com Python e Flask, com funcionalidades de criação, edição, exclusão, filtros e organização por prazo.
 
-  <a href="https://github.com/viniferreiradevtech/daze-login">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniferreiradevtech&repo=daze-login&theme=tokyonight&hide_border=true" />
-  </a>
+[![Task Flow](https://github-readme-stats.vercel.app/api/pin/?username=viniferreiradevtech&repo=Task-Flow-ToDo-list&theme=tokyonight)](https://github.com/viniferreiradevtech/Task-Flow-ToDo-list)
 
-</div>
+### Daze Login
+Projeto de interface de login desenvolvido com HTML, CSS e JavaScript, com foco na construção de uma interface visual organizada e responsiva.
+
+[![Daze Login](https://github-readme-stats.vercel.app/api/pin/?username=viniferreiradevtech&repo=daze-login&theme=tokyonight)](https://github.com/viniferreiradevtech/daze-login)
 
 ## Contato
 
