@@ -15,7 +15,7 @@ Atualmente, venho desenvolvendo projetos práticos para aprimorar meus conhecime
 
 Gosto de entender como as coisas funcionam por trás de uma aplicação e transformar ideias em soluções utilizando tecnologia.
 
-##Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,git,github,vscode" />
